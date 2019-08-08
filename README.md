@@ -18,3 +18,8 @@ pip install line_profiler
 ```
 
 만약`pip install line_profiler`에서 에러가 날 경우, `pip install git+https://github.com/rkern/line_profiler.git`을 실행해 본다.
+
+## heapy
+
+- python2에서만 작동하는듯.
+- 대안: [objgraph](https://mg.pov.lt/objgraph/)
