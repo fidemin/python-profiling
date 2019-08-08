@@ -114,3 +114,6 @@ venv.bak/
 
 # profiler
 *.lprof
+
+# idea
+.idea
