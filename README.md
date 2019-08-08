@@ -23,3 +23,7 @@ pip install line_profiler
 
 - python2에서만 작동하는듯.
 - 대안: [objgraph](https://mg.pov.lt/objgraph/)
+
+
+## dowser
+- python2에서만 cherrypy와 함께 작동한다.
