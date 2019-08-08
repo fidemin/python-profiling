@@ -13,6 +13,8 @@
 ### python3로 line profiler가 설치가 안될 때
 
 ```
-pip3 install Cython
-pip3 install git+https://github.com/rkern/line_profiler.git
+pip install Cython
+pip install line_profiler
 ```
+
+만약`pip install line_profiler`에서 에러가 날 경우, `pip install git+https://github.com/rkern/line_profiler.git`을 실행해 본다.
