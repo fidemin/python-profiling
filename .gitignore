@@ -117,3 +117,6 @@ venv.bak/
 
 # idea
 .idea
+
+# dat
+*.dat
